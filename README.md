@@ -42,31 +42,39 @@ This data structure allows for:
 3. **Multiplication**: Grade-school multiplication with carry handling
 4. **Division**: Long division algorithm with repeated subtraction
 
-## 🚀 Installation
+## 🚀 Installation & Running
 
 ### Prerequisites
 - GCC compiler or any C compiler
 - Windows/Linux/macOS operating system
 
-### Compilation
-```bash
-gcc -o calculator P1_1210733_OsaidNur_1.c
-```
+### Quick Start
+1. **Compile the program:**
+   ```bash
+   gcc -o calculator P1_1210733_OsaidNur_1.c
+   ```
+
+2. **Run the program:**
+   ```bash
+   ./calculator
+   ```
+   
+   On Windows:
+   ```cmd
+   calculator.exe
+   ```
+
+> **Note:** The repository includes a sample `input.txt` file with test numbers. You can modify it or create your own with large integers separated by spaces or newlines.
 
 ## 📖 Usage
 
 ### Input File Format
-Create an `input.txt` file with large integers separated by spaces or newlines:
+The `input.txt` file is already included in the repository with sample numbers. You can modify it or add your own large integers separated by spaces or newlines:
 ```
 123456789012345678901234567890
 987654321098765432109876543210
 555
 777
-```
-
-### Running the Program
-```bash
-./calculator
 ```
 
 ### Interactive Menu
@@ -90,8 +98,8 @@ Big-Integer-Calculator/
 ├── P1_1210733_OsaidNur_1.c    # Main source code
 ├── README.md                   # Project documentation
 ├── project 1.pdf              # Project specifications
-├── input.txt                  # Input file (create this)
-└── output.txt                 # Output file (generated)
+├── input.txt                  # Sample input file with test numbers
+└── output.txt                 # Output file (generated after running)
 ```
 
 ## 🔍 Implementation Details
