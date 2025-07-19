@@ -6,7 +6,7 @@ A C program that performs arithmetic operations on arbitrarily large integers us
 
 - [✨ Features](#-features)
 - [🔧 How It Works](#-how-it-works)
-- [🚀 Installation](#-installation-&-running)
+- [🚀 Installation and Running](#-installation-and-running)
 - [📖 Usage](#-usage)
 - [📁 File Structure](#-file-structure)
 - [🔍 Implementation Details](#-implementation-details)
@@ -42,7 +42,7 @@ This data structure allows for:
 3. **Multiplication**: Grade-school multiplication with carry handling
 4. **Division**: Long division algorithm with repeated subtraction
 
-## 🚀 Installation & Running
+## 🚀 Installation and Running
 
 ### Prerequisites
 - GCC compiler or any C compiler
