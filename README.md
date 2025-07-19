@@ -6,7 +6,7 @@ A C program that performs arithmetic operations on arbitrarily large integers us
 
 - [✨ Features](#-features)
 - [🔧 How It Works](#-how-it-works)
-- [🚀 Installation](#-installation-and-running)
+- [🚀 Installation](#-installation-&-running)
 - [📖 Usage](#-usage)
 - [📁 File Structure](#-file-structure)
 - [🔍 Implementation Details](#-implementation-details)
